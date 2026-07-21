@@ -1,0 +1,1623 @@
+{
+  "workbook": {
+    "name": "KPI 달성 진척도_260113_GS엠비즈.xlsx",
+    "full_name": "D:\\Application_Temp\\workspace\\KPI 달성 진척도_260113_GS엠비즈.xlsx"
+  },
+  "sheet": {
+    "name": "KPI 달성 진척도_'25.4Q",
+    "used_range": {
+      "address": "$A$1:$J$21",
+      "row_start": 1,
+      "row_end": 21,
+      "column_start": 1,
+      "column_end": 10,
+      "row_count": 21,
+      "column_count": 10
+    }
+  },
+  "dataframe": {
+    "original_shape": [
+      21,
+      10
+    ],
+    "cleaned_shape": [
+      12,
+      9
+    ],
+    "row_numbers": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "column_names": [
+      "항목",
+      "항목",
+      "항목",
+      "비중",
+      "분기별 실행계획  - 주요활동",
+      "분기별 실행계획  - 목표",
+      "분기별 실행계획  - 실적",
+      "연간 실행계획 - 실행계획",
+      "연간 실행계획 - Due"
+    ],
+    "dropna": {
+      "column_thresh": 5,
+      "row_thresh": 5,
+      "replace_empty_string_with_na": true
+    },
+    "values": [
+      [
+        "Financial ",
+        "모바일 쿠폰사업 인당 영업이익",
+        "모바일 쿠폰사업 인당 영업이익",
+        0.1,
+        "B2B 영업확대 / 쿠폰몰 매출 확대 / 상품전략 실행",
+        "253.1Mil",
+        "218.0Mil",
+        "253.1Mil",
+        "4Q"
+      ],
+      [
+        "Financial ",
+        "autoOasis 공헌이익",
+        "autoOasis 공헌이익",
+        0.1,
+        "SK렌터카 차량관리 확대 / 신규 B2B 거래처 확대를 통한 입고대수 증대",
+        "10,951Mil",
+        "4,215Mil",
+        "10951Mil",
+        "4Q"
+      ],
+      [
+        "Financial ",
+        "특수 아스팔트 판매량",
+        "특수 아스팔트 판매량",
+        0.1,
+        "프리미엄AP 전환 아스콘사 대상 영업확대 (전라/강원권)",
+        "6,300Ton",
+        "12,078Ton",
+        "6,300Ton",
+        "4Q"
+      ],
+      [
+        "Financial ",
+        "Scorpions",
+        "BUP 달성도",
+        0.05,
+        null,
+        "4.4억",
+        "6.8억",
+        "4.4억",
+        "4Q"
+      ],
+      [
+        "Financial ",
+        "Scorpions",
+        "실행 달성도",
+        0.05,
+        null,
+        "3.9억",
+        "7.3억",
+        "3.9억",
+        "4Q"
+      ],
+      [
+        "Strategic",
+        "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+        "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+        0.3,
+        "사업 Portfolio별 전략방향 재검토 및 OpEx 효율화 관점 희망퇴직 시행 보고 등",
+        "중장기 전략 종합 및 이행 경과 보고",
+        "GSC 경영기획실 중장기 성장동력 발굴 협업 진행",
+        "전사적 사업 Portfolio 전략방향 (Restructuring) 재검토 / 사업별 전략방향 보고 / 사업별 이행 경과 및 중장기 전략 종합 보고 / 희망퇴직 등 OpEx 효율화 기반 조직 재정비 / OpEx 효율화 관리방안 확립",
+        "4Q"
+      ],
+      [
+        "Strategic",
+        "전자금융거래법 대응 체계 구축",
+        "전자금융거래법 대응 체계 구축",
+        0.1,
+        "물리적 보안조치 및 금융감독원 실사 수검, 전자금융업 등록",
+        "물리적 보안조치 완료 / 금융감독원 실사 완료 / 전자금융업 등록 완료",
+        "물리적 보안조치 완료, 전자금융업 등록 완료, 금융위원회 분기별 점검 대응",
+        "물리적 보안조치 및 금융감독원 실사 완료 / 전자금융업 등록 법정 기한 준수 / 쿠폰시스템 장애 Zero화 / 금융위원회 분기별 점검 대응",
+        "4Q"
+      ],
+      [
+        "Strategic",
+        "DAX 전략 수립 및 Agenda 선정/추진",
+        "DAX 전략 수립 및 Agenda 선정/추진",
+        0.1,
+        "Paperless & Data driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+        "Paperless& Data Driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+        "Tableau활용 Data 기반 Dashboard 구축완료, Porcess 개선 Quick-win 과제 이행, PI Project 시행 (a/O 완료), RPA 도입 확대 (해킹의심 IP 차단 자동화 구축 등)",
+        "DAX 전략방향 수립 및 선정 Agenda 이행 완료",
+        "4Q"
+      ],
+      [
+        "SHE",
+        "상해사고 (TRIR)",
+        "상해사고 (TRIR)",
+        0.04,
+        "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+        0.0009,
+        "무사고",
+        0.0009,
+        "4Q"
+      ],
+      [
+        "SHE",
+        "상해사고 안전예방 선행지표 이행",
+        "상해사고 안전예방 선행지표 이행",
+        0.01,
+        "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+        "무사고 + 100% 이행",
+        "무사고 + 100% 이행",
+        "무사고 + 100% 이행 + @",
+        "4Q"
+      ],
+      [
+        "SHE",
+        "유조차 사고",
+        "유조차 사고",
+        0.03,
+        "유조차 안전사고 예방활동 강화",
+        5.0,
+        8.0,
+        5.0,
+        "4Q"
+      ],
+      [
+        "SHE",
+        "유조차 k고 안전예방 선행지표 이행",
+        "유조차 k고 안전예방 선행지표 이행",
+        0.02,
+        "유조차 안전사고 예방활동 강화",
+        "무사고 + 100% 이행",
+        "100% 이행",
+        "무사고 + 100% 이행 + @",
+        "4Q"
+      ]
+    ],
+    "records": [
+      {
+        "항목": "모바일 쿠폰사업 인당 영업이익",
+        "비중": 0.1,
+        "분기별 실행계획  - 주요활동": "B2B 영업확대 / 쿠폰몰 매출 확대 / 상품전략 실행",
+        "분기별 실행계획  - 목표": "253.1Mil",
+        "분기별 실행계획  - 실적": "218.0Mil",
+        "연간 실행계획 - 실행계획": "253.1Mil",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "autoOasis 공헌이익",
+        "비중": 0.1,
+        "분기별 실행계획  - 주요활동": "SK렌터카 차량관리 확대 / 신규 B2B 거래처 확대를 통한 입고대수 증대",
+        "분기별 실행계획  - 목표": "10,951Mil",
+        "분기별 실행계획  - 실적": "4,215Mil",
+        "연간 실행계획 - 실행계획": "10951Mil",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "특수 아스팔트 판매량",
+        "비중": 0.1,
+        "분기별 실행계획  - 주요활동": "프리미엄AP 전환 아스콘사 대상 영업확대 (전라/강원권)",
+        "분기별 실행계획  - 목표": "6,300Ton",
+        "분기별 실행계획  - 실적": "12,078Ton",
+        "연간 실행계획 - 실행계획": "6,300Ton",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "BUP 달성도",
+        "비중": 0.05,
+        "분기별 실행계획  - 주요활동": null,
+        "분기별 실행계획  - 목표": "4.4억",
+        "분기별 실행계획  - 실적": "6.8억",
+        "연간 실행계획 - 실행계획": "4.4억",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "실행 달성도",
+        "비중": 0.05,
+        "분기별 실행계획  - 주요활동": null,
+        "분기별 실행계획  - 목표": "3.9억",
+        "분기별 실행계획  - 실적": "7.3억",
+        "연간 실행계획 - 실행계획": "3.9억",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+        "비중": 0.3,
+        "분기별 실행계획  - 주요활동": "사업 Portfolio별 전략방향 재검토 및 OpEx 효율화 관점 희망퇴직 시행 보고 등",
+        "분기별 실행계획  - 목표": "중장기 전략 종합 및 이행 경과 보고",
+        "분기별 실행계획  - 실적": "GSC 경영기획실 중장기 성장동력 발굴 협업 진행",
+        "연간 실행계획 - 실행계획": "전사적 사업 Portfolio 전략방향 (Restructuring) 재검토 / 사업별 전략방향 보고 / 사업별 이행 경과 및 중장기 전략 종합 보고 / 희망퇴직 등 OpEx 효율화 기반 조직 재정비 / OpEx 효율화 관리방안 확립",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "전자금융거래법 대응 체계 구축",
+        "비중": 0.1,
+        "분기별 실행계획  - 주요활동": "물리적 보안조치 및 금융감독원 실사 수검, 전자금융업 등록",
+        "분기별 실행계획  - 목표": "물리적 보안조치 완료 / 금융감독원 실사 완료 / 전자금융업 등록 완료",
+        "분기별 실행계획  - 실적": "물리적 보안조치 완료, 전자금융업 등록 완료, 금융위원회 분기별 점검 대응",
+        "연간 실행계획 - 실행계획": "물리적 보안조치 및 금융감독원 실사 완료 / 전자금융업 등록 법정 기한 준수 / 쿠폰시스템 장애 Zero화 / 금융위원회 분기별 점검 대응",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "DAX 전략 수립 및 Agenda 선정/추진",
+        "비중": 0.1,
+        "분기별 실행계획  - 주요활동": "Paperless & Data driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+        "분기별 실행계획  - 목표": "Paperless& Data Driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+        "분기별 실행계획  - 실적": "Tableau활용 Data 기반 Dashboard 구축완료, Porcess 개선 Quick-win 과제 이행, PI Project 시행 (a/O 완료), RPA 도입 확대 (해킹의심 IP 차단 자동화 구축 등)",
+        "연간 실행계획 - 실행계획": "DAX 전략방향 수립 및 선정 Agenda 이행 완료",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "상해사고 (TRIR)",
+        "비중": 0.04,
+        "분기별 실행계획  - 주요활동": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+        "분기별 실행계획  - 목표": 0.0009,
+        "분기별 실행계획  - 실적": "무사고",
+        "연간 실행계획 - 실행계획": 0.0009,
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "상해사고 안전예방 선행지표 이행",
+        "비중": 0.01,
+        "분기별 실행계획  - 주요활동": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+        "분기별 실행계획  - 목표": "무사고 + 100% 이행",
+        "분기별 실행계획  - 실적": "무사고 + 100% 이행",
+        "연간 실행계획 - 실행계획": "무사고 + 100% 이행 + @",
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "유조차 사고",
+        "비중": 0.03,
+        "분기별 실행계획  - 주요활동": "유조차 안전사고 예방활동 강화",
+        "분기별 실행계획  - 목표": 5.0,
+        "분기별 실행계획  - 실적": 8.0,
+        "연간 실행계획 - 실행계획": 5.0,
+        "연간 실행계획 - Due": "4Q"
+      },
+      {
+        "항목": "유조차 k고 안전예방 선행지표 이행",
+        "비중": 0.02,
+        "분기별 실행계획  - 주요활동": "유조차 안전사고 예방활동 강화",
+        "분기별 실행계획  - 목표": "무사고 + 100% 이행",
+        "분기별 실행계획  - 실적": "100% 이행",
+        "연간 실행계획 - 실행계획": "무사고 + 100% 이행 + @",
+        "연간 실행계획 - Due": "4Q"
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "block_number": 1,
+      "row_start": 8,
+      "row_end": 19,
+      "column_start": 1,
+      "column_end": 9,
+      "row_numbers": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "column_names": [
+        "항목",
+        "항목",
+        "항목",
+        "비중",
+        "분기별 실행계획  - 주요활동",
+        "분기별 실행계획  - 목표",
+        "분기별 실행계획  - 실적",
+        "연간 실행계획 - 실행계획",
+        "연간 실행계획 - Due"
+      ],
+      "shape": [
+        12,
+        9
+      ],
+      "raw_values": [
+        [
+          "Financial ",
+          "모바일 쿠폰사업 인당 영업이익",
+          "모바일 쿠폰사업 인당 영업이익",
+          0.1,
+          "B2B 영업확대 / 쿠폰몰 매출 확대 / 상품전략 실행",
+          "253.1Mil",
+          "218.0Mil",
+          "253.1Mil",
+          "4Q"
+        ],
+        [
+          "Financial ",
+          "autoOasis 공헌이익",
+          "autoOasis 공헌이익",
+          0.1,
+          "SK렌터카 차량관리 확대 / 신규 B2B 거래처 확대를 통한 입고대수 증대",
+          "10,951Mil",
+          "4,215Mil",
+          "10951Mil",
+          "4Q"
+        ],
+        [
+          "Financial ",
+          "특수 아스팔트 판매량",
+          "특수 아스팔트 판매량",
+          0.1,
+          "프리미엄AP 전환 아스콘사 대상 영업확대 (전라/강원권)",
+          "6,300Ton",
+          "12,078Ton",
+          "6,300Ton",
+          "4Q"
+        ],
+        [
+          "Financial ",
+          "Scorpions",
+          "BUP 달성도",
+          0.05,
+          null,
+          "4.4억",
+          "6.8억",
+          "4.4억",
+          "4Q"
+        ],
+        [
+          "Financial ",
+          "Scorpions",
+          "실행 달성도",
+          0.05,
+          null,
+          "3.9억",
+          "7.3억",
+          "3.9억",
+          "4Q"
+        ],
+        [
+          "Strategic",
+          "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+          "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+          0.3,
+          "사업 Portfolio별 전략방향 재검토 및 OpEx 효율화 관점 희망퇴직 시행 보고 등",
+          "중장기 전략 종합 및 이행 경과 보고",
+          "GSC 경영기획실 중장기 성장동력 발굴 협업 진행",
+          "전사적 사업 Portfolio 전략방향 (Restructuring) 재검토 / 사업별 전략방향 보고 / 사업별 이행 경과 및 중장기 전략 종합 보고 / 희망퇴직 등 OpEx 효율화 기반 조직 재정비 / OpEx 효율화 관리방안 확립",
+          "4Q"
+        ],
+        [
+          "Strategic",
+          "전자금융거래법 대응 체계 구축",
+          "전자금융거래법 대응 체계 구축",
+          0.1,
+          "물리적 보안조치 및 금융감독원 실사 수검, 전자금융업 등록",
+          "물리적 보안조치 완료 / 금융감독원 실사 완료 / 전자금융업 등록 완료",
+          "물리적 보안조치 완료, 전자금융업 등록 완료, 금융위원회 분기별 점검 대응",
+          "물리적 보안조치 및 금융감독원 실사 완료 / 전자금융업 등록 법정 기한 준수 / 쿠폰시스템 장애 Zero화 / 금융위원회 분기별 점검 대응",
+          "4Q"
+        ],
+        [
+          "Strategic",
+          "DAX 전략 수립 및 Agenda 선정/추진",
+          "DAX 전략 수립 및 Agenda 선정/추진",
+          0.1,
+          "Paperless & Data driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+          "Paperless& Data Driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+          "Tableau활용 Data 기반 Dashboard 구축완료, Porcess 개선 Quick-win 과제 이행, PI Project 시행 (a/O 완료), RPA 도입 확대 (해킹의심 IP 차단 자동화 구축 등)",
+          "DAX 전략방향 수립 및 선정 Agenda 이행 완료",
+          "4Q"
+        ],
+        [
+          "SHE",
+          "상해사고 (TRIR)",
+          "상해사고 (TRIR)",
+          0.04,
+          "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+          0.0009,
+          "무사고",
+          0.0009,
+          "4Q"
+        ],
+        [
+          "SHE",
+          "상해사고 안전예방 선행지표 이행",
+          "상해사고 안전예방 선행지표 이행",
+          0.01,
+          "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+          "무사고 + 100% 이행",
+          "무사고 + 100% 이행",
+          "무사고 + 100% 이행 + @",
+          "4Q"
+        ],
+        [
+          "SHE",
+          "유조차 사고",
+          "유조차 사고",
+          0.03,
+          "유조차 안전사고 예방활동 강화",
+          5.0,
+          8.0,
+          5.0,
+          "4Q"
+        ],
+        [
+          "SHE",
+          "유조차 k고 안전예방 선행지표 이행",
+          "유조차 k고 안전예방 선행지표 이행",
+          0.02,
+          "유조차 안전사고 예방활동 강화",
+          "무사고 + 100% 이행",
+          "100% 이행",
+          "무사고 + 100% 이행 + @",
+          "4Q"
+        ]
+      ],
+      "records": [
+        {
+          "항목": "모바일 쿠폰사업 인당 영업이익",
+          "비중": 0.1,
+          "분기별 실행계획  - 주요활동": "B2B 영업확대 / 쿠폰몰 매출 확대 / 상품전략 실행",
+          "분기별 실행계획  - 목표": "253.1Mil",
+          "분기별 실행계획  - 실적": "218.0Mil",
+          "연간 실행계획 - 실행계획": "253.1Mil",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "autoOasis 공헌이익",
+          "비중": 0.1,
+          "분기별 실행계획  - 주요활동": "SK렌터카 차량관리 확대 / 신규 B2B 거래처 확대를 통한 입고대수 증대",
+          "분기별 실행계획  - 목표": "10,951Mil",
+          "분기별 실행계획  - 실적": "4,215Mil",
+          "연간 실행계획 - 실행계획": "10951Mil",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "특수 아스팔트 판매량",
+          "비중": 0.1,
+          "분기별 실행계획  - 주요활동": "프리미엄AP 전환 아스콘사 대상 영업확대 (전라/강원권)",
+          "분기별 실행계획  - 목표": "6,300Ton",
+          "분기별 실행계획  - 실적": "12,078Ton",
+          "연간 실행계획 - 실행계획": "6,300Ton",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "BUP 달성도",
+          "비중": 0.05,
+          "분기별 실행계획  - 주요활동": null,
+          "분기별 실행계획  - 목표": "4.4억",
+          "분기별 실행계획  - 실적": "6.8억",
+          "연간 실행계획 - 실행계획": "4.4억",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "실행 달성도",
+          "비중": 0.05,
+          "분기별 실행계획  - 주요활동": null,
+          "분기별 실행계획  - 목표": "3.9억",
+          "분기별 실행계획  - 실적": "7.3억",
+          "연간 실행계획 - 실행계획": "3.9억",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+          "비중": 0.3,
+          "분기별 실행계획  - 주요활동": "사업 Portfolio별 전략방향 재검토 및 OpEx 효율화 관점 희망퇴직 시행 보고 등",
+          "분기별 실행계획  - 목표": "중장기 전략 종합 및 이행 경과 보고",
+          "분기별 실행계획  - 실적": "GSC 경영기획실 중장기 성장동력 발굴 협업 진행",
+          "연간 실행계획 - 실행계획": "전사적 사업 Portfolio 전략방향 (Restructuring) 재검토 / 사업별 전략방향 보고 / 사업별 이행 경과 및 중장기 전략 종합 보고 / 희망퇴직 등 OpEx 효율화 기반 조직 재정비 / OpEx 효율화 관리방안 확립",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "전자금융거래법 대응 체계 구축",
+          "비중": 0.1,
+          "분기별 실행계획  - 주요활동": "물리적 보안조치 및 금융감독원 실사 수검, 전자금융업 등록",
+          "분기별 실행계획  - 목표": "물리적 보안조치 완료 / 금융감독원 실사 완료 / 전자금융업 등록 완료",
+          "분기별 실행계획  - 실적": "물리적 보안조치 완료, 전자금융업 등록 완료, 금융위원회 분기별 점검 대응",
+          "연간 실행계획 - 실행계획": "물리적 보안조치 및 금융감독원 실사 완료 / 전자금융업 등록 법정 기한 준수 / 쿠폰시스템 장애 Zero화 / 금융위원회 분기별 점검 대응",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "DAX 전략 수립 및 Agenda 선정/추진",
+          "비중": 0.1,
+          "분기별 실행계획  - 주요활동": "Paperless & Data driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+          "분기별 실행계획  - 목표": "Paperless& Data Driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+          "분기별 실행계획  - 실적": "Tableau활용 Data 기반 Dashboard 구축완료, Porcess 개선 Quick-win 과제 이행, PI Project 시행 (a/O 완료), RPA 도입 확대 (해킹의심 IP 차단 자동화 구축 등)",
+          "연간 실행계획 - 실행계획": "DAX 전략방향 수립 및 선정 Agenda 이행 완료",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "상해사고 (TRIR)",
+          "비중": 0.04,
+          "분기별 실행계획  - 주요활동": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+          "분기별 실행계획  - 목표": 0.0009,
+          "분기별 실행계획  - 실적": "무사고",
+          "연간 실행계획 - 실행계획": 0.0009,
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "상해사고 안전예방 선행지표 이행",
+          "비중": 0.01,
+          "분기별 실행계획  - 주요활동": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+          "분기별 실행계획  - 목표": "무사고 + 100% 이행",
+          "분기별 실행계획  - 실적": "무사고 + 100% 이행",
+          "연간 실행계획 - 실행계획": "무사고 + 100% 이행 + @",
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "유조차 사고",
+          "비중": 0.03,
+          "분기별 실행계획  - 주요활동": "유조차 안전사고 예방활동 강화",
+          "분기별 실행계획  - 목표": 5.0,
+          "분기별 실행계획  - 실적": 8.0,
+          "연간 실행계획 - 실행계획": 5.0,
+          "연간 실행계획 - Due": "4Q"
+        },
+        {
+          "항목": "유조차 k고 안전예방 선행지표 이행",
+          "비중": 0.02,
+          "분기별 실행계획  - 주요활동": "유조차 안전사고 예방활동 강화",
+          "분기별 실행계획  - 목표": "무사고 + 100% 이행",
+          "분기별 실행계획  - 실적": "100% 이행",
+          "연간 실행계획 - 실행계획": "무사고 + 100% 이행 + @",
+          "연간 실행계획 - Due": "4Q"
+        }
+      ]
+    }
+  ],
+  "merged_ranges": [
+    {
+      "range": "$B$6:$D$7",
+      "row_start": 6,
+      "row_end": 7,
+      "column_start": 2,
+      "column_end": 4,
+      "value": "항목"
+    },
+    {
+      "range": "$E$6:$E$7",
+      "row_start": 6,
+      "row_end": 7,
+      "column_start": 5,
+      "column_end": 5,
+      "value": "비중"
+    },
+    {
+      "range": "$F$6:$H$6",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 6,
+      "column_end": 8,
+      "value": "분기별 실행계획 "
+    },
+    {
+      "range": "$I$6:$J$6",
+      "row_start": 6,
+      "row_end": 6,
+      "column_start": 9,
+      "column_end": 10,
+      "value": "연간 실행계획"
+    },
+    {
+      "range": "$B$8:$B$12",
+      "row_start": 8,
+      "row_end": 12,
+      "column_start": 2,
+      "column_end": 2,
+      "value": "Financial "
+    },
+    {
+      "range": "$C$8:$D$8",
+      "row_start": 8,
+      "row_end": 8,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "모바일 쿠폰사업 인당 영업이익"
+    },
+    {
+      "range": "$C$9:$D$9",
+      "row_start": 9,
+      "row_end": 9,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "autoOasis 공헌이익"
+    },
+    {
+      "range": "$C$10:$D$10",
+      "row_start": 10,
+      "row_end": 10,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "특수 아스팔트 판매량"
+    },
+    {
+      "range": "$C$11:$C$12",
+      "row_start": 11,
+      "row_end": 12,
+      "column_start": 3,
+      "column_end": 3,
+      "value": "Scorpions"
+    },
+    {
+      "range": "$B$13:$B$15",
+      "row_start": 13,
+      "row_end": 15,
+      "column_start": 2,
+      "column_end": 2,
+      "value": "Strategic"
+    },
+    {
+      "range": "$C$13:$D$13",
+      "row_start": 13,
+      "row_end": 13,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함"
+    },
+    {
+      "range": "$C$14:$D$14",
+      "row_start": 14,
+      "row_end": 14,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "전자금융거래법 대응 체계 구축"
+    },
+    {
+      "range": "$C$15:$D$15",
+      "row_start": 15,
+      "row_end": 15,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "DAX 전략 수립 및 Agenda 선정/추진"
+    },
+    {
+      "range": "$B$16:$B$19",
+      "row_start": 16,
+      "row_end": 19,
+      "column_start": 2,
+      "column_end": 2,
+      "value": "SHE"
+    },
+    {
+      "range": "$C$16:$D$16",
+      "row_start": 16,
+      "row_end": 16,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "상해사고 (TRIR)"
+    },
+    {
+      "range": "$C$17:$D$17",
+      "row_start": 17,
+      "row_end": 17,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "상해사고 안전예방 선행지표 이행"
+    },
+    {
+      "range": "$C$18:$D$18",
+      "row_start": 18,
+      "row_end": 18,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "유조차 사고"
+    },
+    {
+      "range": "$C$19:$D$19",
+      "row_start": 19,
+      "row_end": 19,
+      "column_start": 3,
+      "column_end": 4,
+      "value": "유조차 k고 안전예방 선행지표 이행"
+    }
+  ],
+  "cells": [
+    {
+      "address": "$A$1",
+      "row": 1,
+      "column": 1,
+      "value": "KPI 달성 진척도 ",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$2",
+      "row": 2,
+      "column": 2,
+      "value": "작성회사: 지에스엠비즈㈜",
+      "formula": "='비사업적 재무 변동 예상 보고서_''25.4Q'!B2",
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$3",
+      "row": 3,
+      "column": 2,
+      "value": "작성일: 2025.12.31 ",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$5",
+      "row": 5,
+      "column": 2,
+      "value": "작성연도 : 2025년",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$6",
+      "row": 6,
+      "column": 2,
+      "value": "항목",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$6",
+      "row": 6,
+      "column": 5,
+      "value": "비중",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$F$6",
+      "row": 6,
+      "column": 6,
+      "value": "분기별 실행계획 ",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$I$6",
+      "row": 6,
+      "column": 9,
+      "value": "연간 실행계획",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$F$7",
+      "row": 7,
+      "column": 6,
+      "value": "주요활동",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$7",
+      "row": 7,
+      "column": 7,
+      "value": "목표",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$7",
+      "row": 7,
+      "column": 8,
+      "value": "실적",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$7",
+      "row": 7,
+      "column": 9,
+      "value": "실행계획",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$7",
+      "row": 7,
+      "column": 10,
+      "value": "Due",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$8",
+      "row": 8,
+      "column": 2,
+      "value": "Financial ",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$C$8",
+      "row": 8,
+      "column": 3,
+      "value": "모바일 쿠폰사업 인당 영업이익",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$8",
+      "row": 8,
+      "column": 5,
+      "value": 0.1,
+      "formula": "0.1",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$8",
+      "row": 8,
+      "column": 6,
+      "value": "B2B 영업확대 / 쿠폰몰 매출 확대 / 상품전략 실행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$8",
+      "row": 8,
+      "column": 7,
+      "value": "253.1Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$8",
+      "row": 8,
+      "column": 8,
+      "value": "218.0Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$8",
+      "row": 8,
+      "column": 9,
+      "value": "253.1Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$8",
+      "row": 8,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$9",
+      "row": 9,
+      "column": 3,
+      "value": "autoOasis 공헌이익",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$9",
+      "row": 9,
+      "column": 5,
+      "value": 0.1,
+      "formula": "0.1",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$9",
+      "row": 9,
+      "column": 6,
+      "value": "SK렌터카 차량관리 확대 / 신규 B2B 거래처 확대를 통한 입고대수 증대",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$9",
+      "row": 9,
+      "column": 7,
+      "value": "10,951Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$9",
+      "row": 9,
+      "column": 8,
+      "value": "4,215Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$9",
+      "row": 9,
+      "column": 9,
+      "value": "10951Mil",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$9",
+      "row": 9,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$10",
+      "row": 10,
+      "column": 3,
+      "value": "특수 아스팔트 판매량",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$10",
+      "row": 10,
+      "column": 5,
+      "value": 0.1,
+      "formula": "0.1",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$10",
+      "row": 10,
+      "column": 6,
+      "value": "프리미엄AP 전환 아스콘사 대상 영업확대 (전라/강원권)",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$10",
+      "row": 10,
+      "column": 7,
+      "value": "6,300Ton",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$10",
+      "row": 10,
+      "column": 8,
+      "value": "12,078Ton",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$10",
+      "row": 10,
+      "column": 9,
+      "value": "6,300Ton",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$10",
+      "row": 10,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$11",
+      "row": 11,
+      "column": 3,
+      "value": "Scorpions",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$D$11",
+      "row": 11,
+      "column": 4,
+      "value": "BUP 달성도",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$E$11",
+      "row": 11,
+      "column": 5,
+      "value": 0.05,
+      "formula": "0.05",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$G$11",
+      "row": 11,
+      "column": 7,
+      "value": "4.4억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$11",
+      "row": 11,
+      "column": 8,
+      "value": "6.8억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$11",
+      "row": 11,
+      "column": 9,
+      "value": "4.4억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$11",
+      "row": 11,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$D$12",
+      "row": 12,
+      "column": 4,
+      "value": "실행 달성도",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$E$12",
+      "row": 12,
+      "column": 5,
+      "value": 0.05,
+      "formula": "0.05",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$G$12",
+      "row": 12,
+      "column": 7,
+      "value": "3.9억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$12",
+      "row": 12,
+      "column": 8,
+      "value": "7.3억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$12",
+      "row": 12,
+      "column": 9,
+      "value": "3.9억",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$12",
+      "row": 12,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$13",
+      "row": 13,
+      "column": 2,
+      "value": "Strategic",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$C$13",
+      "row": 13,
+      "column": 3,
+      "value": "중장기 전략 (Restructuring) 검토\n- OpEx 구조화 검토 포함",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$13",
+      "row": 13,
+      "column": 5,
+      "value": 0.3,
+      "formula": "0.3",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$13",
+      "row": 13,
+      "column": 6,
+      "value": "사업 Portfolio별 전략방향 재검토 및 OpEx 효율화 관점 희망퇴직 시행 보고 등",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$13",
+      "row": 13,
+      "column": 7,
+      "value": "중장기 전략 종합 및 이행 경과 보고",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$13",
+      "row": 13,
+      "column": 8,
+      "value": "GSC 경영기획실 중장기 성장동력 발굴 협업 진행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$13",
+      "row": 13,
+      "column": 9,
+      "value": "전사적 사업 Portfolio 전략방향 (Restructuring) 재검토 / 사업별 전략방향 보고 / 사업별 이행 경과 및 중장기 전략 종합 보고 / 희망퇴직 등 OpEx 효율화 기반 조직 재정비 / OpEx 효율화 관리방안 확립",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$13",
+      "row": 13,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$14",
+      "row": 14,
+      "column": 3,
+      "value": "전자금융거래법 대응 체계 구축",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$14",
+      "row": 14,
+      "column": 5,
+      "value": 0.1,
+      "formula": "0.1",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$14",
+      "row": 14,
+      "column": 6,
+      "value": "물리적 보안조치 및 금융감독원 실사 수검, 전자금융업 등록",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$14",
+      "row": 14,
+      "column": 7,
+      "value": "물리적 보안조치 완료 / 금융감독원 실사 완료 / 전자금융업 등록 완료",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$14",
+      "row": 14,
+      "column": 8,
+      "value": "물리적 보안조치 완료, 전자금융업 등록 완료, 금융위원회 분기별 점검 대응",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$14",
+      "row": 14,
+      "column": 9,
+      "value": "물리적 보안조치 및 금융감독원 실사 완료 / 전자금융업 등록 법정 기한 준수 / 쿠폰시스템 장애 Zero화 / 금융위원회 분기별 점검 대응",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$14",
+      "row": 14,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$15",
+      "row": 15,
+      "column": 3,
+      "value": "DAX 전략 수립 및 Agenda 선정/추진",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$15",
+      "row": 15,
+      "column": 5,
+      "value": 0.1,
+      "formula": "0.1",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$15",
+      "row": 15,
+      "column": 6,
+      "value": "Paperless & Data driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$15",
+      "row": 15,
+      "column": 7,
+      "value": "Paperless& Data Driven 경영환경 구축, 불필요한 Process 제거를 통한 효율화, Digital Transformation 가속",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$15",
+      "row": 15,
+      "column": 8,
+      "value": "Tableau활용 Data 기반 Dashboard 구축완료, Porcess 개선 Quick-win 과제 이행, PI Project 시행 (a/O 완료), RPA 도입 확대 (해킹의심 IP 차단 자동화 구축 등)",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$15",
+      "row": 15,
+      "column": 9,
+      "value": "DAX 전략방향 수립 및 선정 Agenda 이행 완료",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$15",
+      "row": 15,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$B$16",
+      "row": 16,
+      "column": 2,
+      "value": "SHE",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$C$16",
+      "row": 16,
+      "column": 3,
+      "value": "상해사고 (TRIR)",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$16",
+      "row": 16,
+      "column": 5,
+      "value": 0.04,
+      "formula": "0.04",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$16",
+      "row": 16,
+      "column": 6,
+      "value": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$16",
+      "row": 16,
+      "column": 7,
+      "value": 0.0009,
+      "formula": "0.0009",
+      "number_format": "0.00%",
+      "is_merged": false
+    },
+    {
+      "address": "$H$16",
+      "row": 16,
+      "column": 8,
+      "value": "무사고",
+      "formula": null,
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$I$16",
+      "row": 16,
+      "column": 9,
+      "value": 0.0009,
+      "formula": "0.0009",
+      "number_format": "0.00%",
+      "is_merged": false
+    },
+    {
+      "address": "$J$16",
+      "row": 16,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$17",
+      "row": 17,
+      "column": 3,
+      "value": "상해사고 안전예방 선행지표 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$17",
+      "row": 17,
+      "column": 5,
+      "value": 0.01,
+      "formula": "0.01",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$17",
+      "row": 17,
+      "column": 6,
+      "value": "사고예방 및 재발방지 활동 강화, 안전 보건 절차 준수 및 안전 문화 조정",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$17",
+      "row": 17,
+      "column": 7,
+      "value": "무사고 + 100% 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$17",
+      "row": 17,
+      "column": 8,
+      "value": "무사고 + 100% 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$17",
+      "row": 17,
+      "column": 9,
+      "value": "무사고 + 100% 이행 + @",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$17",
+      "row": 17,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$18",
+      "row": 18,
+      "column": 3,
+      "value": "유조차 사고",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$18",
+      "row": 18,
+      "column": 5,
+      "value": 0.03,
+      "formula": "0.03",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$18",
+      "row": 18,
+      "column": 6,
+      "value": "유조차 안전사고 예방활동 강화",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$18",
+      "row": 18,
+      "column": 7,
+      "value": 5.0,
+      "formula": "5",
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$18",
+      "row": 18,
+      "column": 8,
+      "value": 8.0,
+      "formula": "8",
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$18",
+      "row": 18,
+      "column": 9,
+      "value": 5.0,
+      "formula": "5",
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$18",
+      "row": 18,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$C$19",
+      "row": 19,
+      "column": 3,
+      "value": "유조차 k고 안전예방 선행지표 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": true
+    },
+    {
+      "address": "$E$19",
+      "row": 19,
+      "column": 5,
+      "value": 0.02,
+      "formula": "0.02",
+      "number_format": "0%",
+      "is_merged": false
+    },
+    {
+      "address": "$F$19",
+      "row": 19,
+      "column": 6,
+      "value": "유조차 안전사고 예방활동 강화",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$G$19",
+      "row": 19,
+      "column": 7,
+      "value": "무사고 + 100% 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$H$19",
+      "row": 19,
+      "column": 8,
+      "value": "100% 이행",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$I$19",
+      "row": 19,
+      "column": 9,
+      "value": "무사고 + 100% 이행 + @",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    },
+    {
+      "address": "$J$19",
+      "row": 19,
+      "column": 10,
+      "value": "4Q",
+      "formula": null,
+      "number_format": "G/표준",
+      "is_merged": false
+    }
+  ]
+}
